@@ -10,8 +10,6 @@ header {
   margin-bottom: 0rem;
   margin-top: 5vh;
   text-align: left;
-
-
 }
 
 .mainheader,#acltitle{
@@ -50,21 +48,37 @@ header span {
 .navBar {
   background-color: #77D951; /*navbar green */
   margin-top: 5vh;
-  border-radius: .25em;
-  padding: 1em;
+  border-radius: .2em;
+  border: .2rem black dotted;
 }
 
 .navBar ul {
   list-style-type: none;
-  display: inline;
+  padding: 1em;
+  margin: 0;
 }
 
 .navBar ul li {
-  display: inline;
-  float: left;
-  padding-left: 8vw;
-  padding-right: 8vw;
+  float: inherit;
+  display: inline-table;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  font-size: 1.5em;
+  font-weight: bolder;
   color: #FFFEF5; /* background color */
+  line-height: 1.5em;
+}
+
+.navBar ul li:hover {
+  float: inherit;
+  display: inline-table;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: green;
+  background-color: #FFFEF5; /* background color */
+  line-height: 1.5em;
 }
 
 /*END NAV*******************************************************************************/
@@ -77,6 +91,8 @@ body section h1 {
   margin-bottom: 0;
   font-size: 4rem;
   font-style: none;
+  border-bottom: .3rem black dotted;
+  padding-bottom: .5rem;
 }
 
 body section h2 {
@@ -84,11 +100,13 @@ body section h2 {
   font-style: none;
   margin-top: 0;
   color: #FF794D; /* vibrant red*/
+  font-size: larger;
+  padding-top: .5rem;
 }
 
 #comment3 {
-  font-size: .8rem;
-  text-justify: inter-word;
+  font-size: smaller;
+  text-justify: center;
 }
 
 .elist {
@@ -119,4 +137,6 @@ body section h2 {
 img {
   display: block;
   margin: 0 auto;
+  border: 10px black double;
+  border-radius: 4%;
 }

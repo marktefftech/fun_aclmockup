@@ -11,7 +11,7 @@
   <p class="mainheader comments" id="comment1">Austin Parks Foundation Presents....</p>
   <h1 class="mainheader" id="acltitle">Austin City Limits</h1>
   <h2 class="mainheader">Music Festival</h2>
-  <p class="mainheader comments" id="comment2">Oct4-6 <span>+</span> Oct11-13 <span>2019</span> Zilker Park</p>
+  <p class="mainheader comments" id="comment2">Oct5-6 <span>+</span> Oct11-13 <span>2019</span> Zilker Park</p>
 
   <nav class="navBar">
     <ul>
@@ -37,5 +37,9 @@
         <p class="comments" id="comment4">Check out the 2018 Lineup poster below.</p>
         <img src="/Users/markteffeteller/web_projects/fun/acl_mockup/assets/images/acl_mockup_poster.jpg" alt_text="Line up poster" Title="This is the line up for 2018.">
     <section>
+</body>
 
-</body
+<footer class="footer">
+    <p id="comment4"> Thanks for checking out the site. I am in <b>NO WAY</b> affiliated with ACL. I just think they have a pretty website
+    <br> Mark Teffeteller</br>
+</footer
