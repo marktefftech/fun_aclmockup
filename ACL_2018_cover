@@ -37,5 +37,9 @@
         <p class="comments" id="comment4">Check out the 2018 Lineup poster below.</p>
         <img src="/Users/markteffeteller/web_projects/fun/acl_mockup/assets/images/acl_mockup_poster.jpg" alt_text="Line up poster" Title="This is the line up for 2018.">
     <section>
+</body>
 
-</body
+<footer class="footer">
+    <p id="comment4"> Thanks for checking out the site. I am in <b>NO WAY</b> affiliated with ACL. I just think they have a pretty website
+    <br> Mark Teffeteller</br>
+</footer
